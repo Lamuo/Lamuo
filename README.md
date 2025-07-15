@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with python
 - 💬 Ask me about **terraria**
 - 📫 How to reach me: [Telegram ](https://t.me/TodokanakuteShokkobasita)
-- 😄 Pronouns: whatever
 - ⚡ Fun fact: i like pizza 🍕
 
