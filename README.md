@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my ***physics*** degree
-- 🌱 I’m currently learning ~**React** && **Typescript**~ **MySQL** && **Networking** 
+- 🌱 I’m currently learning ~**React** && **Typescript**~ ~**MySQL** && **Networking**~ **Rust** && **Reverse-Engineering**
 - 👯 I’m looking to collaborate on as much ***projects*** as possible
 - 🤔 I’m looking for help with **Tailwind**
 - 💬 Ask me about **terraria**
